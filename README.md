@@ -1,54 +1,58 @@
 <div align="center">
 
-# ⚡ Akasmit Bachhav
+<h1>AKASMIT BACHHAV</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+Real-Time+Systems+Builder;React+•+Elixir+•+Node.js;Clean+Architecture+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%7C+Systems+Engineering;Full-Stack+Architecture;Distributed+%26+Real-Time+Systems;React+•+Elixir+•+Python" />
 
 <br/>
 
-🎓 BE in Artificial Intelligence & Data Science  
-🚀 Building scalable web & AI-powered systems  
-🌍 India  
+Artificial Intelligence & Data Science  
+Systems-Oriented Full Stack Developer  
+India  
 
 </div>
 
 <br/>
 
-<div align="center">
+### Research Interests
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs,nodejs,express,elixir,phoenix,python" />
-
-</div>
-
-<br/><br/>
-
-## 🚀 Selected Work
-
-🧠 **DALL·E Clone**  
-AI-powered image generation with modern frontend architecture  
-
-🌐 **Metaverse Website**  
-Immersive 3D web experience using Three.js  
-
-🎬 **Movie Recommendation System**  
-Machine learning-based intelligent suggestions  
-
-💬 **Real-Time Code Editor**  
-Concurrent architecture powered by Elixir  
+- Distributed Systems & Concurrency  
+- Real-Time Collaborative Architectures  
+- AI-Augmented Applications  
+- Scalable Backend Infrastructure  
 
 <br/>
 
-## 🧩 Current Focus
+### Technical Stack
 
-- Distributed systems with Elixir  
-- AI-integrated web applications  
-- Scalable backend design  
-- Production-grade UI architecture  
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs,nodejs,express" /><br/>
+<img src="https://skillicons.dev/icons?i=elixir,phoenix" /><br/>
+<img src="https://skillicons.dev/icons?i=python" />
+
+</p>
+
+<br/>
+
+### Selected Work
+
+**DALL·E Clone**  
+AI-driven image generation interface  
+
+**Real-Time Collaborative Code Editor**  
+Concurrent system built using Elixir  
+
+**Movie Recommendation System**  
+Machine learning-based recommendation engine  
+
+**3D Metaverse Website**  
+Interactive spatial UI using Three.js  
 
 <br/>
 
 <div align="center">
 
-### ⚡ Build scalable systems. Design elegant interfaces.
+> Designing intelligent systems with clean architecture.
 
 </div>
