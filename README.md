@@ -6,10 +6,6 @@
 
 <br/>
 
-🎓 BE in Artificial Intelligence & Data Science  
-🚀 Building scalable web & AI-powered systems  
-🌍 India  
-
 </div>
 
 <br/>
@@ -21,22 +17,6 @@
 </div>
 
 <br/><br/>
-
-## 🚀 Selected Work
-
-🧠 **DALL·E Clone**  
-AI-powered image generation with modern frontend architecture  
-
-🌐 **Metaverse Website**  
-Immersive 3D web experience using Three.js  
-
-🎬 **Movie Recommendation System**  
-Machine learning-based intelligent suggestions  
-
-💬 **Real-Time Code Editor**  
-Concurrent architecture powered by Elixir  
-
-<br/>
 
 ## 🧩 Current Focus
 
