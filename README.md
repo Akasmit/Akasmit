@@ -1,6 +1,12 @@
 <div align="center">
-
-# ⚡ Akasmit Bachhav
+  
+<h1>
+  <span style="background: linear-gradient(90deg, #00F7FF, #7A5CFF); 
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent;">
+  AKASMIT BACHHAV
+  </span>
+</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+Real-Time+Systems+Builder;React+•+Elixir+•+Node.js;Clean+Architecture+Enthusiast" />
 
