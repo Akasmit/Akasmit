@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs,nodejs,express,elixir,python" />
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,threejs,nodejs,express,elixir,python" />
 
 </div>
 
